@@ -23,4 +23,4 @@ To clean and prepare the Titanic dataset for machine learning.
    - Removed outliers in `Fare` using IQR method
 
 5. **Result**
-   - Final cleaned dataset saved as `Titanic.csv`
+   - Final cleaned dataset saved as `titanic_cleaned.csv`
